@@ -1,0 +1,11 @@
+/* Estilize o chatbox de acordo com suas preferências */
+#chatbox {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+#historico {
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
